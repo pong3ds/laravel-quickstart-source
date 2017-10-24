@@ -1,0 +1,5 @@
+172.24.0.7 - - [23/Oct/2017:06:40:03 +0000] "GET / HTTP/1.0" 500 20 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0"
+172.24.0.7 - - [23/Oct/2017:06:57:56 +0000] "GET / HTTP/1.0" 500 2996 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0"
+172.24.0.7 - - [23/Oct/2017:07:16:49 +0000] "GET / HTTP/1.0" 200 1004 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0"
+172.24.0.8 - - [23/Oct/2017:07:28:21 +0000] "GET / HTTP/1.0" 200 1004 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0"
+172.24.0.8 - - [23/Oct/2017:07:37:12 +0000] "GET / HTTP/1.0" 200 1004 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.12; rv:56.0) Gecko/20100101 Firefox/56.0"

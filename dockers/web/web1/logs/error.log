@@ -1,0 +1,8 @@
+2017/10/23 06:35:43 [warn] 33#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /opt/bitnami/nginx/conf/nginx.conf:6
+2017/10/23 06:36:54 [warn] 33#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /opt/bitnami/nginx/conf/nginx.conf:6
+2017/10/23 06:40:03 [error] 37#0: *1 FastCGI sent in stderr: "PHP message: PHP Warning:  require(/app/bootstrap/../vendor/autoload.php): failed to open stream: No such file or directory in /app/bootstrap/autoload.php on line 17
+PHP message: PHP Fatal error:  require(): Failed opening required '/app/bootstrap/../vendor/autoload.php' (include_path='.:/opt/bitnami/php/lib/php') in /app/bootstrap/autoload.php on line 17" while reading response header from upstream, client: 172.24.0.7, server: default_server, request: "GET / HTTP/1.0", upstream: "fastcgi://172.24.0.2:9000", host: "laravel-quickstart.local"
+2017/10/23 07:24:59 [warn] 32#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /opt/bitnami/nginx/conf/nginx.conf:6
+2017/10/23 07:27:56 [warn] 33#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /opt/bitnami/nginx/conf/nginx.conf:6
+2017/10/23 07:37:06 [warn] 33#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /opt/bitnami/nginx/conf/nginx.conf:6
+2017/10/23 09:03:53 [warn] 33#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /opt/bitnami/nginx/conf/nginx.conf:6
